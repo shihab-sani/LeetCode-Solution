@@ -1,4 +1,4 @@
-class Solution {
+class Get_Concatenation {
     public int[] getConcatenation(int[] nums) {
         int size = nums.length*2;
         int[] arr = new int[size];
