@@ -1,4 +1,4 @@
-class Solution {
+class Remove_Element {
     public int removeElement(int[] nums, int val) {
         int index = 0;
         int i = 0;
