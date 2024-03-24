@@ -1,4 +1,4 @@
-// siding windows mathod
+// Sliding windows mathod
 import java.util.HashSet;
 
 class ContainsNearbyDuplicate {
